@@ -1,0 +1,6 @@
+@_130926_Kuharica_Project_HostAddress = http://localhost:5244
+
+GET {{_130926_Kuharica_Project_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
